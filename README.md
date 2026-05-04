@@ -1,0 +1,2 @@
+# Python-Based-Student-Management-System-with-Grade-Calculation
+I developed a Student Management System using Python that allows users to manage student records efficiently. The system verifies student roll numbers, calculates obtained marks, and generates percentage and grade based on input marks. It also includes a continuous loop system that allows multiple student checks without restarting the program.
